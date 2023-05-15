@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -C l | tr -d "\n" | sort
+cut -C l | paste -s -d "
